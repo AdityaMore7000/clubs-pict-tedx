@@ -88,7 +88,7 @@ ul{
 header{
     width: 100vw;
     height: 100vh;
-    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(/images/MARCATO.png);
+    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/MARCATO.png);
     background-position: bottom;
     background-size: cover;
     display: flex;
@@ -189,7 +189,7 @@ a.ctn{
 .explore{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(/images/explore-img.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/explore-img.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
